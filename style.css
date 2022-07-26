@@ -1,0 +1,51 @@
+.sidebar {
+    background-color: red;
+    text-decoration: none;
+    color: rgb(246, 244, 248);
+}
+.infoContainer {
+    background-color: rgb(200, 10, 120);
+    height: 12vh;
+}
+.hello{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.sidebar nav li A 
+{
+    text-decoration: none;
+    color: azure;
+}
+.buttons button {
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: rgb(8, 4, 7);
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 0 3px;
+    cursor: pointer;
+
+}
+.buttons button:hover {
+    background-color: rgb(245, 244, 243);
+    color: aquamarine;
+    cursor: pointer;
+
+}
+.devInfo {
+    align-items: center;
+    justify-content: center;
+}
+.ContactInfo {
+    font-size: 20px;
+    background-color: bisque;
+    padding: 26px 14px;
+}
+
+.aboutMe {
+    font-size: 20px;
+    background-color: bisque;
+    padding: 26px 14px;
+}
